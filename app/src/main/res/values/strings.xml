@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shared_anim</string>
+    <string name="android">hello</string>
+    <string name="ios">ios phone</string>
+    <string name="xamarin">asdfghjj</string>
+    <string name="phonegap">hirjhoyohkylh</string>
+    <string name="transition">animation</string>
+</resources>
